@@ -30,6 +30,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = (
+    'auth_app',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -37,7 +38,6 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'south',
-    'auth_app',
     'registration'
 )
 
@@ -89,3 +89,12 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 LOGIN_REDIRECT_URL = "index"
+import smtplib
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587
+smtp=smtplib.SMTP(host=EMAIL_HOST,port=EMAIL_PORT)
+EMAIL_USE_TLS = True
+EMAIL_HOST_USER = "yash.saxena1217@gmail.com"
+EMAIL_HOST_PASSWORD = 'FEDERERKOBE123456'
+
+ACCOUNT_ACTIVATION_DAYS=7

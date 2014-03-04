@@ -36,7 +36,9 @@
         <entry file="file://$PROJECT_DIR$/auth_app/templates/registration/login.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="315">
-              <folding />
+              <folding>
+                <marker date="1390875644000" expanded="true" signature="93:252" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,7 +47,14 @@
         <entry file="file://$PROJECT_DIR$/auth_app/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="36" column="0" selection-start="813" selection-end="813" vertical-scroll-proportion="-23.47826" vertical-offset="0" max-vertical-offset="630">
-              <folding />
+              <folding>
+                <marker date="1393970045000" expanded="true" signature="83:811" placeholder="..." />
+                <marker date="1393970045000" expanded="true" signature="91:159" placeholder="..." />
+                <marker date="1393970045000" expanded="true" signature="167:802" placeholder="..." />
+                <marker date="1393970045000" expanded="true" signature="189:618" placeholder="..." />
+                <marker date="1393970045000" expanded="true" signature="642:695" placeholder="..." />
+                <marker date="1393970045000" expanded="true" signature="718:794" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,10 +77,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auth/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="21" selection-start="1485" selection-end="1485" vertical-scroll-proportion="0.76744187" vertical-offset="243" max-vertical-offset="720">
+            <state line="36" column="13" selection-start="1477" selection-end="1477" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="720">
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -83,7 +92,9 @@
         <entry file="file://$PROJECT_DIR$/auth_app/templates/registration/registration_form.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="11" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="-7.173913" vertical-offset="0" max-vertical-offset="255">
-              <folding />
+              <folding>
+                <marker date="1390875644000" expanded="true" signature="93:194" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,10 +110,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/auth/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="19" selection-start="2097" selection-end="2097" vertical-scroll-proportion="0.0" vertical-offset="1038" max-vertical-offset="1440">
+            <state line="99" column="25" selection-start="2355" selection-end="2355" vertical-scroll-proportion="0.8449612" vertical-offset="1158" max-vertical-offset="1575">
               <folding />
             </state>
           </provider>
@@ -138,8 +149,8 @@
         <option value="$PROJECT_DIR$/auth_app/templates/base.html" />
         <option value="$PROJECT_DIR$/auth_app/templates/registration/index.html" />
         <option value="$PROJECT_DIR$/auth_app/views.py" />
-        <option value="$PROJECT_DIR$/auth/settings.py" />
         <option value="$PROJECT_DIR$/auth/urls.py" />
+        <option value="$PROJECT_DIR$/auth/settings.py" />
       </list>
     </option>
   </component>
@@ -504,7 +515,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32924962" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32924962" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -571,7 +582,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="0" selection-start="917" selection-end="917" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="690">
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#0#24#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -600,7 +611,9 @@
     <entry file="file://$PROJECT_DIR$/auth_app/templates/registration/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="387">
-          <folding />
+          <folding>
+            <marker date="1390875644000" expanded="true" signature="93:252" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -614,7 +627,9 @@
     <entry file="file://$PROJECT_DIR$/auth_app/templates/registration/registration_form.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="-7.173913" vertical-offset="0" max-vertical-offset="255">
-          <folding />
+          <folding>
+            <marker date="1390875644000" expanded="true" signature="93:194" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -628,7 +643,14 @@
     <entry file="file://$PROJECT_DIR$/auth_app/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="0" selection-start="813" selection-end="813" vertical-scroll-proportion="-23.47826" vertical-offset="0" max-vertical-offset="630">
-          <folding />
+          <folding>
+            <marker date="1393970045000" expanded="true" signature="83:811" placeholder="..." />
+            <marker date="1393970045000" expanded="true" signature="91:159" placeholder="..." />
+            <marker date="1393970045000" expanded="true" signature="167:802" placeholder="..." />
+            <marker date="1393970045000" expanded="true" signature="189:618" placeholder="..." />
+            <marker date="1393970045000" expanded="true" signature="642:695" placeholder="..." />
+            <marker date="1393970045000" expanded="true" signature="718:794" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -641,13 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/auth/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="19" selection-start="2097" selection-end="2097" vertical-scroll-proportion="0.0" vertical-offset="1038" max-vertical-offset="1440">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/auth_app/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="10" selection-start="56" selection-end="56" vertical-scroll-proportion="-1.3043479" vertical-offset="0" max-vertical-offset="135">
@@ -657,10 +672,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/auth/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="21" selection-start="1485" selection-end="1485" vertical-scroll-proportion="0.76744187" vertical-offset="243" max-vertical-offset="720">
+        <state line="36" column="13" selection-start="1477" selection-end="1477" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="720">
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="25" selection-start="2355" selection-end="2355" vertical-scroll-proportion="0.8449612" vertical-offset="1158" max-vertical-offset="1575">
+          <folding />
         </state>
       </provider>
     </entry>
